@@ -10,14 +10,16 @@ In order to use, open the terminal and run "python3 mydig.py" on the command lin
 
 ## The following response will be displayed on the terminal:
 
-```QUESTION SECTION:
+```
+QUESTION SECTION:
 (your url).    IN A
 
 ANSWER SECTION:
 (your url). 30 IN A (ip address)
 
 QUERY TIME: (ms)
-WHEN:  yyyy-mm-dd hh:mm:ss.ms```
+WHEN:  yyyy-mm-dd hh:mm:ss.ms
+```
 
 ## License
 
